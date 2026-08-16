@@ -1,0 +1,31 @@
+{
+	"animations": [
+		{
+			"offsets": [37, 1018],
+			"loop": false,
+			"fps": 24,
+			"anim": "anim",
+			"indices": [],
+			"name": "we gotta stop"
+		},
+		{
+			"offsets": [37, 1018],
+			"loop": true,
+			"fps": 24,
+			"anim": "anim-loop",
+			"indices": [74, 75, 76, 77, 78, 79, 80, 81, 82],
+			"name": "we gotta stop"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "ashton/cutscenes/garOutro",
+	"position": [0, 150],
+	"healthicon": "garcello-nerves",
+	"flip_x": false,
+	"healthbar_colors": [0, 255, 144],
+	"camera_position": [-60, -30],
+	"sing_duration": 6.1,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

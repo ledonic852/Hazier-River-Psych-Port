@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portrait-nene.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="neutral0000" x="855" y="0" width="855" height="1049" frameX="-160" frameY="-3" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="pissed0000" x="0" y="0" width="855" height="1049" frameX="-160" frameY="-3" frameWidth="1150" frameHeight="1050"/>
+</TextureAtlas>

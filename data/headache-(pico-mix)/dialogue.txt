@@ -1,0 +1,14 @@
+dad::neutral::Oh hey, wasn't expecting company at this hour.| How are you two doing?
+bf::questioning::That cig you got...| Is it like magical or something?| Shit looks awesome.
+dad::neutral::Yeah, its pretty cool.| Mint flavored too.
+bf::hype::That's SICK
+bf::questioning::So..| Do you sell them or-
+dad::neutral::Well, they aren't really for sale,| hell they aren't even mine..
+dad::cmon::But... If you beat me in a friendly little rap battle,| I'll give you a pack on the house..
+dad::neutral::Sound cool?
+bf::hype::Hell yeah!
+gf::neutral::Can I have one too?
+bf::questioning::Since when did you smoke?
+gf::neutral::Now
+dad::happy::Heh, you guys seem pretty hyped up.| Guess it's settled then.
+bf::smug::I am GETTING that magical blunt on GOD

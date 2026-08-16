@@ -1,0 +1,538 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			4800,
+			[
+				["Set Camera Zoom", "0.8", "8,circOut"]
+			]
+		],
+		[
+			9600,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			14400,
+			[
+				["Set Camera Target", "GF,-140,0", ""],
+				["Set Camera Zoom", "0.8", "8,circOut"]
+			]
+		],
+		[
+			19200,
+			[
+				["Set Camera Target", "BF,-190,-60", "8,circOut"],
+				["Set Camera Zoom", "0.85", "8,circOut"]
+			]
+		],
+		[
+			21600,
+			[
+				["Set Camera Target", "BF,-160,-30", "8,circOut"],
+				["Set Camera Zoom", "0.9", "8,circOut"]
+			]
+		],
+		[
+			22800,
+			[
+				["Set Camera Zoom", "0.7", "8,backIn"]
+			]
+		],
+		[
+			23400,
+			[
+				["Set Camera Target", "GF,-140,0", "8,circInOut"]
+			]
+		],
+		[
+			25200,
+			[
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			26400,
+			[
+				["Set Camera Target", "GF,120,0", ""],
+				["Set Camera Zoom", "0.7", "8,circOut"]
+			]
+		],
+		[
+			28200,
+			[
+				["Set Camera Zoom", "0.75", "3,circOut"]
+			]
+		],
+		[
+			28800,
+			[
+				["Set Camera Target", "GF,-140,0", "8,circOut"],
+				["Set Camera Zoom", "0.7", "8,circOut"]
+			]
+		],
+		[
+			31200,
+			[
+				["Set Camera Target", "BF,-190,-60", "8,circOut"]
+			]
+		],
+		[
+			33000,
+			[
+				["Set Camera Zoom", "0.6", "8,circInOut"]
+			]
+		],
+		[
+			33600,
+			[
+				["Set Camera Target", "GF", ""]
+			]
+		],
+		[
+			36000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			36600,
+			[
+				["Set Camera Zoom", "0.65", "8,circOut"]
+			]
+		],
+		[
+			37800,
+			[
+				["Set Camera Zoom", "0.7", "8,circOut"]
+			]
+		],
+		[
+			38400,
+			[
+				["Set Camera Target", "BF,-190,0", ""]
+			]
+		],
+		[
+			39000,
+			[
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			40200,
+			[
+				["Set Camera Zoom", "0.8", "8,circOut"]
+			]
+		],
+		[
+			40800,
+			[
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			41850,
+			[
+				["Set Camera Zoom", "0.65", "8,circOut"]
+			]
+		],
+		[
+			42600,
+			[
+				["Set Camera Target", "Dad", "8,circInOut"],
+				["Set Camera Zoom", "0.6", "8,circOut"]
+			]
+		],
+		[
+			45000,
+			[
+				["Set Camera Target", "GF,-140,0", ""]
+			]
+		],
+		[
+			45600,
+			[
+				["Set Camera Target", "GF", ""]
+			]
+		],
+		[
+			48000,
+			[
+				["Set Camera Target", "GF,160,30", ""]
+			]
+		],
+		[
+			50400,
+			[
+				["Set Camera Zoom", "0.65", "8,circOut"]
+			]
+		],
+		[
+			51600,
+			[
+				["Set Camera Zoom", "0.7", "8,circOut"]
+			]
+		],
+		[
+			52200,
+			[
+				["Set Camera Target", "BF", "4,circOut"],
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			52800,
+			[
+				["Set Camera Target", "GF,-140,0", ""],
+				["Set Camera Zoom", "0.65", "8,circOut"]
+			]
+		],
+		[
+			55200,
+			[
+				["Set Camera Zoom", "0.7", "8,circOut"]
+			]
+		],
+		[
+			56400,
+			[
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			57600,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			60000,
+			[
+				["Set Camera Zoom", "0.8", "8,circOut"]
+			]
+		],
+		[
+			61200,
+			[
+				["Set Camera Zoom", "0.75", "8,backIn"]
+			]
+		],
+		[
+			62400,
+			[
+				["Set Camera Target", "Dad", ""],
+				["Set Camera Zoom", "0.7", "8,circOut"],
+				["Garcello Vignette", "1", "0.2"],
+				["Character Trail", "1", ""]
+				
+			]
+		],
+		[
+			66000,
+			[
+				["Set Camera Target", "Dad,90,0", ""]
+			]
+		],
+		[
+			66600,
+			[
+				["Set Camera Target", "Dad,150,20", ""],
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			67200,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			69300,
+			[
+				["Set Camera Zoom", "0.7", "16,circInOut"]
+			]
+		],
+		[
+			71400,
+			[
+				["Set Camera Target", "BF,-210,0", ""],
+				["Set Camera Zoom", "0.65", "4,circOut"]
+			]
+		],
+		[
+			72000,
+			[
+				["Set Camera Target", "GF,-140,0", ""]
+			]
+		],
+		[
+			74400,
+			[
+				["Set Camera Zoom", "0.7", "8,circOut"]
+			]
+		],
+		[
+			75600,
+			[
+				["Set Camera Target", "GF,-190,0", ""],
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			76800,
+			[
+				["Set Camera Target", "GF,150,30", ""],
+				["Set Camera Zoom", "0.65", "8,circOut"]
+			]
+		],
+		[
+			78000,
+			[
+				["Set Camera Target", "BF", "4,circOut"],
+				["Set Camera Zoom", "0.7", "2,circOut"]
+			]
+		],
+		[
+			78600,
+			[
+				["Set Camera Zoom", "0.75", "2,circOut"]
+			]
+		],
+		[
+			78900,
+			[
+				["Set Camera Zoom", "0.8", "2,circOut"]
+			]
+		],
+		[
+			79200,
+			[
+				["Set Camera Zoom", "0.85", "8,circOut"]
+			]
+		],
+		[
+			79800,
+			[
+				["Set Camera Target", "GF", "8,circInOut"]
+			]
+		],
+		[
+			80400,
+			[
+				["Set Camera Zoom", "0.7", "8,circOut"]
+			]
+		],
+		[
+			81000,
+			[
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			81600,
+			[
+				["Set Camera Target", "Dad", ""],
+				["Set Camera Zoom", "0.65", "8,circOut"],
+				["Garcello Vignette", "0", "0.2"],
+				["Character Trail", "0", ""]
+			]
+		],
+		[
+			84000,
+			[
+				["Set Camera Target", "Dad,150,0", ""]
+			]
+		],
+		[
+			84600,
+			[
+				["Set Camera Target", "GF,150,0", ""]
+			]
+		],
+		[
+			85200,
+			[
+				["Set Camera Target", "GF,210,80", "8,circOut"],
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			85800,
+			[
+				["Set Camera Target", "GF,230,100", "8,circOut"],
+				["Set Camera Zoom", "0.8", "8,circOut"]
+			]
+		],
+		[
+			86400,
+			[
+				["Set Camera Target", "GF", "8,circOut"],
+				["Set Camera Zoom", "0.7", "8,circOut"]
+			]
+		],
+		[
+			88800,
+			[
+				["Set Camera Target", "GF,100,30", "7,circOut"],
+				["Set Camera Zoom", "0.75", "7,circOut"]
+			]
+		],
+		[
+			89850,
+			[
+				["Set Camera Target", "GF,190,100", "8,circOut"],
+				["Set Camera Zoom", "0.8", "8,circOut"]
+			]
+		],
+		[
+			90600,
+			[
+				["Set Camera Zoom", "0.85", "8,circOut"]
+			]
+		],
+		[
+			90900,
+			[
+				["Set Camera Zoom", "0.9", "8,circOut"]
+			]
+		],
+		[
+			91200,
+			[
+				["Set Camera Target", "BF", "8,circOut"],
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			91800,
+			[
+				["Set Camera Zoom", "0.8", "2,circOut"]
+			]
+		],
+		[
+			92100,
+			[
+				["Set Camera Zoom", "0.85", "2,circOut"]
+			]
+		],
+		[
+			92400,
+			[
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			93000,
+			[
+				["Set Camera Zoom", "0.7", "4,circOut"]
+			]
+		],
+		[
+			93300,
+			[
+				["Set Camera Zoom", "0.75", "1,circOut"]
+			]
+		],
+		[
+			93450,
+			[
+				["Set Camera Zoom", "0.8", "1,circOut"]
+			]
+		],
+		[
+			93600,
+			[
+				["Set Camera Zoom", "0.75", "16,circOut"]
+			]
+		],
+		[
+			94050,
+			[
+				["Set Camera Zoom", "0.7", "3,circOut"]
+			]
+		],
+		[
+			94500,
+			[
+				["Set Camera Zoom", "0.75", "3,circOut"]
+			]
+		],
+		[
+			94800,
+			[
+				["Set Camera Zoom", "0.8", "8,circOut"]
+			]
+		],
+		[
+			95400,
+			[
+				["Set Camera Target", "BF,-310,0", "4,circOut"]
+			]
+		],
+		[
+			96000,
+			[
+				["Set Camera Target", "Dad", "32,smoothStepInOut"]
+			]
+		],
+		[
+			100200,
+			[
+				["Set Camera Zoom", "0.85", "8,circOut"]
+			]
+		],
+		[
+			100800,
+			[
+				["Set Camera Target", "Dad", ""],
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			103200,
+			[
+				["Set Camera Zoom", "0.8", "8,circOut"]
+			]
+		],
+		[
+			105600,
+			[
+				["Set Camera Target", "BF", ""],
+				["Set Camera Zoom", "0.75", "8,circOut"]
+			]
+		],
+		[
+			108000,
+			[
+				["Set Camera Zoom", "0.8", "8,circOut"]
+			]
+		],
+		[
+			109800,
+			[
+				["Set Camera Zoom", "0.85", "8,circOut"]
+			]
+		],
+		[
+			110400,
+			[
+				["Set Camera Target", "GF", "0"],
+				["Set Camera Zoom", "0.7", "12,circOut"]
+			]
+		],
+		[
+			111000,
+			[
+				["Set Camera Target", "GF,-90,0", "4,circOut"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

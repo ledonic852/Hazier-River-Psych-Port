@@ -1,0 +1,12 @@
+bf::neutral::beep
+dad::neutral::Eaí, carinha.| Acho que a fumaça pegou sua atenção hm?
+bf::neutral::bop bees ba
+dad::neutral::É, é bem legal a vista.| Eu tenho um maço reserva se quiser provar.
+bf::ehh::beep bo bop..
+dad::cmon::Tem certeza?| Qualé...
+bf::cocky::boop ba!
+dad::hmm::Hmmm...
+dad::neutral::Te dizer aqui,| se você me derrotar em uma batalhazinha amigável de rap vou parar de pegar no teu pé.| Soa legal, carinha?
+bf::cocky::beep!
+dad::happy::Heh, isso te deixou animado não?| Está decidido então.
+dad::neutral::Pensando aqui, espero que vocês dois não liguem se eu fumar um pouco.| Ajuda a acalmar os nervos, sabe?

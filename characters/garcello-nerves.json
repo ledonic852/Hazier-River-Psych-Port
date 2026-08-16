@@ -1,0 +1,175 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "nervesIdle",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+		},
+		{
+			"loop": false,
+			"offsets": [66, 0],
+			"anim": "singLEFT",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "nervesLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [26, -19],
+			"anim": "singDOWN",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "nervesDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [8, 24],
+			"anim": "singUP",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "nervesUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-39, -3],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "nervesRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [22, 0],
+			"anim": "cough",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "cough",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [22, 0],
+			"anim": "coughHard",
+			"fps": 24,
+			"name": "hardcough",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle-loop",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "nervesIdle",
+			"indices": [12, 13, 14, 15, 16, 17, 18, 19, 20]
+		},
+		{
+			"loop": true,
+			"offsets": [66, 0],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "nervesLeft",
+			"indices": [9, 10, 11, 12, 13, 14, 15, 16, 17]
+		},
+		{
+			"loop": true,
+			"offsets": [26, -19],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "nervesDown",
+			"indices": [9, 10, 11, 12, 13, 14, 15, 16, 17]
+		},
+		{
+			"loop": true,
+			"offsets": [8, 24],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "nervesUp",
+			"indices": [9, 10, 11, 12, 13, 14, 15, 16, 17]
+		},
+		{
+			"loop": true,
+			"offsets": [-39, -3],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "nervesRight",
+			"indices": [9, 10, 11, 12, 13, 14, 15, 16, 17]
+		},
+		{
+			"loop": true,
+			"offsets": [22, 0],
+			"anim": "cough-loop",
+			"fps": 24,
+			"playerOffsets": [
+				0,
+				0
+			],
+			"name": "cough",
+			"indices": [6, 7, 8, 9, 10, 11, 12, 13, 14]
+		},
+		{
+			"loop": true,
+			"offsets": [22, 0],
+			"anim": "coughHard-loop",
+			"fps": 24,
+			"name": "hardcough",
+			"indices": [8, 9, 10, 11, 12, 13, 14, 15, 16]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/garcelloV2",
+	"position": [0, 150],
+	"healthicon": "garcello-nerves",
+	"flip_x": false,
+	"healthbar_colors": [0, 255, 144],
+	"camera_position": [-60, -30],
+	"sing_duration": 6.1,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

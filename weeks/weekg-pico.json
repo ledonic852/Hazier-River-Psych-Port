@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Headache (Pico Mix)",
+			"garcello",
+			[
+				142,
+				64,
+				165
+			]
+		],
+		[
+			"Nerves (Pico Mix)",
+			"garcello-nerves",
+			[
+				142,
+				64,
+				165
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "ashton",
+	"difficulties": "",
+	"weekCharacters": [
+		"garcello",
+		"pico-gar",
+		"nene-gar"
+	],
+	"storyName": "SMOKE 'EM OUT STRUGGLE (DEMO)",
+	"weekName": "Week G (Pico Mix)",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "weekg",
+	"startUnlocked": false
+}

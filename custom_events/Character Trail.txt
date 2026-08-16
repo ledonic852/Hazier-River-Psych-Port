@@ -1,0 +1,2 @@
+Activates a trail of the character singing.
+Value 1: 0/1 = OFF/ON

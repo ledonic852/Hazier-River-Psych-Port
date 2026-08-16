@@ -1,0 +1,12 @@
+bf::neutral::beep
+dad::neutral::Hey there, little man.| I'm guessing the smoke caught your attention huh?
+bf::neutral::bop bees ba
+dad::neutral::Yeah, it's pretty cool looking.| I have a spare pack if you wanna try.
+bf::ehh::beep bo bop..
+dad::cmon::You sure?| C'mon...
+bf::cocky::boop ba!
+dad::hmm::Hmmm...
+dad::neutral::Tell ya what,| if you can beat me in a friendly little rap battle I'll get off of your case.| Sound cool, little man?
+bf::cocky::beep!
+dad::happy::Heh, that really got you hyped up didn't it?| Guess it's settled then.
+dad::neutral::Though, I hope you two won't mind me smoking a bit.| Helps calm the nerves, y'know?

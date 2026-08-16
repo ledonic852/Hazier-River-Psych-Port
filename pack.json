@@ -1,0 +1,9 @@
+{
+	"name": "Hazier River (DEMO)",
+	"description": "A port of the fanmade remake of the Hazy River mod on Psych Engine",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [142, 64, 165],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

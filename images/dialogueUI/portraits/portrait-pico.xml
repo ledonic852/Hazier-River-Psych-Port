@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portrait-pico.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="cocky0000" x="0" y="2030" width="798" height="1015" frameX="-220" frameY="-37" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="high0000" x="1020" y="0" width="1020" height="1015" frameX="2" frameY="-37" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="huff0000" x="0" y="1015" width="823" height="1015" frameX="-195" frameY="-37" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="hype0000" x="2040" y="0" width="798" height="1015" frameX="-220" frameY="-37" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="neutral0000" x="2040" y="1015" width="798" height="1015" frameX="-220" frameY="-37" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="questioning0000" x="2838" y="0" width="798" height="1015" frameX="-220" frameY="-37" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="showoff0000" x="0" y="0" width="1020" height="1015" frameX="2" frameY="-37" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="smug0000" x="823" y="1015" width="798" height="1015" frameX="-220" frameY="-37" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="standstill0000" x="798" y="2030" width="798" height="1015" frameX="-220" frameY="-37" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="uneasy0000" x="2838" y="1015" width="798" height="1015" frameX="-220" frameY="-37" frameWidth="1150" frameHeight="1050"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+dad::cough::*TOSSE*| Heh...| Parece que me derrotou.| Você não é meio ruim nisso!
+bf::questioning::Caramba, você parece fudido..| eu juro que você estava bem.. um minuto atrás...| Tem certeza de que esse treco é seguro?
+dad::one_more::Bem, tão seguro quanto cigarro pode ser eu acho.| Não como eu posso *TOSSE*| parar-
+dad::offer::De qualquer forma, você ganhou eles.| Divirta se
+bf::uneasy::Que tal...| mais uma rodada?
+bf::showoff::Também, eu peguei maços dos meus.| Peguei de um armário quando eu era pequeno..
+dad::concerned::...|Isso é um baseado?
+bf::showoff::Ah se é, e são totalmente bons pra você!| Meus cabas chamam de erva medicinal. É maneiro.
+bf::huff::*huff*
+bf::high::Éééééééééé...| ISSO que é droga, cara
+gf::pissed::Ei!| Eu disse que eu também queria um, seu vagabundo!
+bf::cocky::Nah...| Aqui é tudo ou nada!| Eu ganho DOIS maços se te derrotar dessa vez!
+dad::thought::(Dois..?| Nem consigo esse que tenho na mão...| como caramba vou pegar dois?)
+dad::think::(Quer saber...| vou fingir que concordo, ele é chapado)
+dad::weak::Parece legal pra mim... *TOSSE*| A..|Ao menos estive me divertindo
+bf::cocky::Foooodaa
+dad::one_more::Talvez mais um desses endireita meus nervos...
+dad::fine::Eu vou estar bem...
+bf::standstill::Ah sim, pode continuar onde está por mim?| Eu quero tentar uma coisa...

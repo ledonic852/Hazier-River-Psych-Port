@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Headache",
+			"garcello",
+			[
+				142,
+				64,
+				165
+			]
+		],
+		[
+			"Nerves",
+			"garcello-nerves",
+			[
+				142,
+				64,
+				165
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "ashton",
+	"difficulties": "",
+	"weekCharacters": [
+		"garcello",
+		"bf-gar",
+		"gf-gar"
+	],
+	"storyName": "SMOKE 'EM OUT STRUGGLE (DEMO)",
+	"weekName": "Week G",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

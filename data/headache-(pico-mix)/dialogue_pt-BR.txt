@@ -1,0 +1,14 @@
+dad::neutral::Ah oi, não esperava compania à essa hora.| Como vão vocês dois?
+bf::questioning::Esse cigarro...| É tipo mágico ou o quê?| Porra parece maneiro.
+dad::neutral::É, é bem legal.| Saborizado com menta.
+bf::hype::Isso é FODA
+bf::questioning::Então..| Você os vende ou-
+dad::neutral::Bem, eles não estão realmente à venda,| diabos eles nem são meus..
+dad::cmon::Mas... Se você me derrotar em uma batalhazinha amigável de rap,| eu te dou um maço por conta da casa..
+dad::neutral::Parece legal?
+bf::hype::Vambora!
+gf::neutral::Eu posso ter um também?
+bf::questioning::Desde quando você fuma?
+gf::neutral::Agora
+dad::happy::Heh, vocês parecem animados.| Parece que está decidido.
+bf::smug::Eu to CONSEGUINDO esse baseado mágico por DEUS

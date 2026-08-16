@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portrait-bf.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="cocky0000" x="1848" y="0" width="924" height="1008" frameX="-188" frameY="-44" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="dumbass0000" x="0" y="0" width="924" height="1008" frameX="-188" frameY="-44" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="ehh0000" x="924" y="0" width="924" height="1008" frameX="-188" frameY="-44" frameWidth="1150" frameHeight="1050"/>
+	<SubTexture name="neutral0000" x="0" y="1008" width="924" height="1008" frameX="-188" frameY="-44" frameWidth="1150" frameHeight="1050"/>
+</TextureAtlas>

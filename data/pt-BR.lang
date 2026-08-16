@@ -1,0 +1,17 @@
+Português (Brasil)
+
+//Difficulties
+difficulty_erect: "Ereta"
+difficulty_nightmare: "Pesadelo"
+
+// Cutscenes Text
+gar_cutscene_text: "Boyfriend e Girlfriend estava\nsaindo para um encontro chique...\nquando viram um brilho estranho\nvindo de um beco..."
+gar_pico_cutscene_text: "Pico e Nene estava saindo para comer um lanche tarde da noite...\nDe repente, um brilho estranho emitiu do estacionamento."
+
+// Achievements
+achievement_weekg_nomiss: "Ele Vai Ficar Bem...?",
+description_weekg_nomiss: "Complete a demo da Week G no Modo Difícil e sem errar."
+achievement_ur_fault: "Eu Falei Para Ficar Onde Está!"
+description_ur_fault: "Erre uma bala."
+achievement_rude_ass: "Seu Grosso!!"
+description_rude_ass: "Arrote aleatoriamente com o Pico durante uma Música."

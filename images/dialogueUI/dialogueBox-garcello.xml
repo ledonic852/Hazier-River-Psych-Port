@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueBox-dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="garcellotextbox0000" x="50" y="50" width="1178" height="358" frameX="0" frameY="-3" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0001" x="50" y="50" width="1178" height="358" frameX="0" frameY="-3" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0002" x="50" y="50" width="1178" height="358" frameX="0" frameY="-3" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0003" x="50" y="50" width="1178" height="358" frameX="0" frameY="-3" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0004" x="50" y="50" width="1178" height="358" frameX="0" frameY="-3" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0005" x="50" y="50" width="1178" height="358" frameX="0" frameY="-3" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0006" x="50" y="438" width="1173" height="363" frameX="-6" frameY="0" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0007" x="50" y="438" width="1173" height="363" frameX="-6" frameY="0" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0008" x="50" y="438" width="1173" height="363" frameX="-6" frameY="0" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0009" x="50" y="438" width="1173" height="363" frameX="-6" frameY="0" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0010" x="50" y="438" width="1173" height="363" frameX="-6" frameY="0" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0011" x="50" y="438" width="1173" height="363" frameX="-6" frameY="0" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0012" x="50" y="831" width="1176" height="363" frameX="-6" frameY="-7" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0013" x="50" y="831" width="1176" height="363" frameX="-6" frameY="-7" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0014" x="50" y="831" width="1176" height="363" frameX="-6" frameY="-7" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0015" x="50" y="831" width="1176" height="363" frameX="-6" frameY="-7" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0016" x="50" y="831" width="1176" height="363" frameX="-6" frameY="-7" frameWidth="1182" frameHeight="370"/>
+	<SubTexture name="garcellotextbox0017" x="50" y="831" width="1176" height="363" frameX="-6" frameY="-7" frameWidth="1182" frameHeight="370"/>
+</TextureAtlas>

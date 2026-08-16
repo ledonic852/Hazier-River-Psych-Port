@@ -1,0 +1,18 @@
+[
+	{
+		"save": "weekg_nomiss",
+		"name": "Is He Gonna Be Okay...?",
+		"description": "Beat the demo of Week G on Hard with no Misses."
+	},
+	{
+		"save": "ur_fault",
+		"name": "I Told You To Stay Still!",
+		"description": "Miss the shot."
+	},
+	{
+		"save": "rude_ass",
+		"name": "Rude!!",
+		"description": "Randomly burp as Pico during a Song.",
+		"hidden": true
+	}
+]
