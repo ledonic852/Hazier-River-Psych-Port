@@ -51,6 +51,17 @@ function onCreate()
     if dialogueBoxData.useSoundIntro == true then
         playSound(dialogueBoxData.soundIntro)
     end
+
+    -- MOBILE COMPATIBILITY CODE
+    runHaxeCode([[
+        function detectTouch() {
+            if (!FlxG.onMobile) return null;
+            for (touch in FlxG.touches.list) if (touch.justPressed) return true;
+            return false;    
+        }
+
+        function backButton() if (FlxG.onMobile) return FlxG.android.justReleased.BACK;
+    ]])
 end
 
 local dialogueList = {}
@@ -141,11 +152,11 @@ function onUpdatePost(elapsed)
             playAnim('dialogueBox', 'idle')
         end
 
-        if keyJustPressed('back') then
+        if keyJustPressed('back') or runHaxeFunction('backButton') then
             if dialogueStarted == true then
                 dialogueFinish()
             end
-        elseif keyJustPressed('accept') then
+        elseif keyJustPressed('accept') or runHaxeFunction('detectTouch') then
             if dialogueEnded == true then
                 if dialogueList[2] == nil and dialogueList[1] == nil then
                     if getProperty('dialogueText.paused') == false then
